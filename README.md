@@ -38,13 +38,13 @@ Wafer_defect_test
 │
 ├── fix_pickle.py
 │ Fix compatibility issues with older dataset pickle files
-│
+|
 ├── data_prepare.py
 │ Clean labels and prepare wafer map data for feature extraction
 │
 ├── feature.py
 │ Extract spatial features from wafer maps
-│
+|
 ├── train.py
 │ Train Random Forest model and evaluate classification performance
 
