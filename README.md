@@ -34,6 +34,8 @@ Before training, the dataset needs preprocessing because the raw format contains
 
 
 ## Project Structure
+```text
+
 Wafer_defect_test
 │
 ├── fix_pickle.py
@@ -47,4 +49,6 @@ Wafer_defect_test
 |
 ├── train.py
 │ Train Random Forest model and evaluate classification performance
+
+```
 
